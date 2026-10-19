@@ -9,11 +9,4 @@
 - 🌐 官网（数据 API 授权 / 源码授权 / 定制开发）：https://match-stats-keithwys-projects.vercel.app/
 - 📦 开源仓库：https://github.com/KEithwy1030/MatchStats
 - 📮 商务合作：KEithWYong@Gmail.com
-
-## 🎯 乌龙体育
-
-体育直播聚合 + AI 赛前分析：https://ogk88.com
-
----
-
-*Telegram 交流群：https://t.me/oldkclub*
+- 💬 Telegram 交流群：https://t.me/oldkclub
